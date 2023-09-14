@@ -139,7 +139,7 @@ const experiences = {
     {
       role: 'Associate Software Engineer',// Here Add Company Name
       companylogo: require('../assets/img/jacobi1.png'),
-      date: 'July 2023 – August 2022',
+      date: 'August 2022 – August 2023',
     },
     {
       role: 'Exports Clearance Broker (L6)',
