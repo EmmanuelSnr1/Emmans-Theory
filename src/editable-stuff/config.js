@@ -25,7 +25,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/emmanuelsnr1/",
     },
     {
       image: "fa-twitter",
@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "Hello! I'm Emmanuel, a passionate tech enthusiast with a rich background in Computer Science and Business from Aston University, where I graduated with first-class honours. My journey in the tech world has been diverse and enriching, from honing my software engineering skills at a dynamic fintech startup, Jacobi Strategies in London, to diving deep into Java development, and even dabbling in self-hosted WordPress solutions, especially with WP Engine. Whether I'm working on plugin development, designing pages, or mastering Java EE and SQL, I approach every challenge with a keen eye for detail and a drive for excellence. As I further my expertise with an MSc in Artificial Intelligence, I'm eager to bring my versatile skillset and innovative spirit to transformative projects. Let's collaborate and turn visionary ideas into tangible solutions!",
-  resume: "https://drive.google.com/file/d/11JWJKWD_ikhYIvu2G8U00If-lC3AJfto/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/19j3O4Fee6VUqNIQe_Ctk3fk3IfjUKB9l/view?usp=sharing",
 };
 
 // PROJECTS SECTION
