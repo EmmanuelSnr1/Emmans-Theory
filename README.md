@@ -6,3 +6,26 @@ Commands to deploy
 npm run build 
 firebase deploy
 
+
+<!-- LF vs. CRLF:
+
+LF (Line Feed) is represented as \n and is used for line breaks in UNIX-based systems.
+CRLF (Carriage Return and Line Feed) is represented as \r\n and is used for line breaks in Windows.
+The Warning Explained:
+
+Git can be configured to automatically convert LF to CRLF when checking out code and convert it back to LF when committing. The warning you're seeing indicates that Git is performing this conversion.
+"LF will be replaced by CRLF": This means that when you check out files on your Windows system, LF will be replaced with CRLF.
+"The file will have its original line endings in your working directory": This is an assurance that, in your local working directory, the file will still have the LF line endings.
+Why It's Relevant:
+
+This conversion ensures that files maintain the correct line endings on both UNIX-based systems and Windows. If not managed properly, different line endings can cause unexpected behavior in applications.
+Handling the Warning:
+
+If you want Git to handle line endings automatically, you can set the core.autocrlf configuration:
+On Windows: git config --global core.autocrlf true
+On Linux/Mac: git config --global core.autocrlf input
+If you already have a repository and want to normalize the line endings, you can do:
+bash
+Copy code
+git add --renormalize .
+git commit -m "Normalized line endings" -->
