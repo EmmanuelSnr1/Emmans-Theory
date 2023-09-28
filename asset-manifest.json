@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9d157d3.css",
+    "main.js": "/static/js/main.aedb01f2.js",
+    "static/js/496.97e9d1d9.chunk.js": "/static/js/496.97e9d1d9.chunk.js",
+    "static/media/Emmanuel.jpeg": "/static/media/Emmanuel.762113251bdda466df86.jpeg",
+    "static/media/Fedex.png": "/static/media/Fedex.fe2dbafdaa3713972977.png",
+    "index.html": "/index.html",
+    "main.e9d157d3.css.map": "/static/css/main.e9d157d3.css.map",
+    "main.aedb01f2.js.map": "/static/js/main.aedb01f2.js.map",
+    "496.97e9d1d9.chunk.js.map": "/static/js/496.97e9d1d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d157d3.css",
+    "static/js/main.aedb01f2.js"
+  ]
+}
