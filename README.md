@@ -50,4 +50,6 @@ git add --renormalize .
 git commit -m "Normalized line endings" -->
 
 
-Tests on a mac 
+# Pay atttention to CRLF & LF
+Depending on the kind of device you are using to contribute to this project. 
+Mac or Windows
