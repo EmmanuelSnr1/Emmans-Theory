@@ -12,7 +12,8 @@ firebase deploy
 2. install firebase by creating a firebase account and running an npm install to configure it locally 
 3. Use nvm to install node version 18.13.0 locally for the packages to be able to be confifured properly 
 4. If possible, delete the build, node modules and package-lock.json 
-5. run npm install to install the needed packages afresh . 
+5. run npm install to install the needed packages afresh .
+6. There is also an Extra info readme in the File's directory, be be sure to make good use of it. 
 
 
 
