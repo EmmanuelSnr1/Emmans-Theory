@@ -151,7 +151,7 @@ const experiences = {
 
 // Blog SECTION
 // const blog = {
-//   show: false,
+//   show: true,
 // };
 
 export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
