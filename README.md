@@ -7,6 +7,28 @@ npm run build
 firebase deploy
 
 
+<<<<<<< HEAD
+=======
+## Getting started to checking out and using this project. 
+1. Get nvm/ node version manager installed.
+2. install firebase by creating a firebase account and running an npm install to configure it locally 
+3. Use nvm to install node version 18.13.0 locally for the packages to be able to be confifured properly 
+4. If possible, delete the build, node modules and package-lock.json 
+5. run npm install to install the needed packages afresh .
+6. There is also an Extra info readme in the File's directory, be be sure to make good use of it. 
+
+
+
+
+The rest should be easy enough to manage. 
+
+
+Happy coding !!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+>>>>>>> ca6fdcd1840e21e134c7b0ef03e0e18cee050bfa
 <!-- LF vs. CRLF:
 
 LF (Line Feed) is represented as \n and is used for line breaks in UNIX-based systems.
@@ -28,4 +50,13 @@ If you already have a repository and want to normalize the line endings, you can
 bash
 Copy code
 git add --renormalize .
+<<<<<<< HEAD
 git commit -m "Normalized line endings" -->
+=======
+git commit -m "Normalized line endings" -->
+
+
+# Pay atttention to CRLF & LF
+Depending on the kind of device you are using to contribute to this project. 
+Mac or Windows
+>>>>>>> ca6fdcd1840e21e134c7b0ef03e0e18cee050bfa

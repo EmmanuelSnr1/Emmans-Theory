@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Emmanuel",
   middleName: "",
   lastName: "Appiah (Snr)",
-  message: " Passionate about changing the world with technology. ",
+  message: " An avid Software Engineer with a keen passion for developing web and mobile applications.",
   icons: [
     {
       image: "fa-github",
@@ -151,7 +151,7 @@ const experiences = {
 
 // Blog SECTION
 // const blog = {
-//   show: false,
+//   show: true,
 // };
 
 export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
