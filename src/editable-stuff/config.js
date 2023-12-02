@@ -107,7 +107,7 @@ const skills = {
     { name: "Hardware Maintanance & Support ", value: 85 },
     { name: "Java EE - Springboot/Struts 2", value: 80 },
     { name: "JavaScript - Jquery", value: 90 },
-    { name: "React", value: 65 },
+    { name: "React", value: 85 },
     { name: "HTML/CSS", value: 85 },
     { name: "Adobi XD UI & UX", value: 80 },
   ],
