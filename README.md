@@ -10,6 +10,9 @@ Website Link
 https://emmanstheory.web.app/ 
 
 
+#Todo 
+- Remember to update CV
+
 <<<<<<< HEAD
 =======
 ## Getting started to checking out and using this project. 
