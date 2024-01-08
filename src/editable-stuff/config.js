@@ -110,6 +110,7 @@ const skills = {
     { name: "React", value: 85 },
     { name: "HTML/CSS", value: 85 },
     { name: "Adobi XD UI & UX", value: 80 },
+    { name: "ML with Numpy and Tensor flow", value: 85 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
