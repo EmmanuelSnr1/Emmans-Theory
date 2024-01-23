@@ -13,6 +13,7 @@ Website Link
 # Todo
 
 - Remember to update CV
+- Start a blog
 
 <<<<<<< HEAD
 =======
