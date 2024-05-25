@@ -17,8 +17,7 @@ Website Link
 - Add additional skills to my skills section
 - Update BIO and background
 
-<<<<<<< HEAD
-=======
+
 
 ## Getting started to checking out and using this project
 
