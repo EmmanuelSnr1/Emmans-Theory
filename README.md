@@ -15,6 +15,7 @@ Website Link
 - Remember to update CV
 - Start a blog
 - Add additional skills to my skills section
+- Update BIO and background
 
 <<<<<<< HEAD
 =======
